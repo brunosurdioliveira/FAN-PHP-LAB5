@@ -1,0 +1,39 @@
+#logo {
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    margin: 50px;
+    color: black;
+    text-shadow: 2px 2px yellow;
+    letter-spacing: 3px;
+  }
+
+  h2 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background-color: #fff8dcbf;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  path {
+    color: #033c1094;
+  }
+
+  .btn-primary {
+    background-color: #ffc800;
+    border-color: #ffc800;
+    margin-bottom: 30px;
+  }
+
+  .tips {
+    font-family: 'Questrial', sans-serif;
+    color: white;
+    background-color: rgba(64, 168, 185, 0.79);
+  }
+
+  body {
+    width: 100%;
+    text-align: center;
+    background-image: url("https://www.zingerbug.com/Backgrounds/background_images/yellow_smiley_faces_background_seamless.jpg");
+    background-attachment: fixed;
+  }
